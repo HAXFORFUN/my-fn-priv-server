@@ -1,4 +1,4 @@
-MIT License
+
 
 Copyright (c) 1995 HaxForFun
 
